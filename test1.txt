@@ -5,3 +5,4 @@ add func1add func1add func1add func1add func1add func1add func1add func1add func
 新增功能3
 新增功能4
 add test1
+add test2
