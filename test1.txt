@@ -1,6 +1,5 @@
 abcd
 123456
 add func1
-add func1add func1add func1add func1add func1add func1add func1add func1add func1add func1add func1add func1
-新增功能3
-新增功能4
+add func2
+code conclick2
